@@ -1,2 +1,2 @@
-# UG-PX402-ActiveMatter-2022-23
+# Active matter networks
 Project work
